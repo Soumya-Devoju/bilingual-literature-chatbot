@@ -105,3 +105,8 @@ No installation required - just click and start chatting about English literatur
 - Get instant bilingual responses
 - Perfect for students and literature enthusiasts
 
+## 🌐 Try the Live Demo
+
+**[🚀 Chat with the Bot Online](https://your-actual-app-name.streamlit.app)**
+
+No installation required - just click and start chatting about English literature!
