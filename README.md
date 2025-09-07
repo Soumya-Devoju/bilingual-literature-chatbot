@@ -110,3 +110,7 @@ No installation required - just click and start chatting about English literatur
 **[🚀 Chat with the Bot Online](https://your-actual-app-name.streamlit.app)**
 
 No installation required - just click and start chatting about English literature!
+## 🌐 Try the Live Demo
+
+**[🚀 Chat with the Bot Online]https://bilingual-literature-chatbot-bipemv769zimupgbhcvnrg.streamlit.app
+No installation required - just click and start chatting about English literature!
