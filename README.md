@@ -92,12 +92,6 @@ MIT License - Feel free to use for educational purposes!
 
 Contributions welcome! Please read our contributing guidelines.
 
-## 🌐 Try It Live!
-
-**[🚀 Chat with the Bot Online](https://your-actual-url.streamlit.app)**
-
-No installation required - just click and start chatting about English literature!
-
 ## 🎯 Features Demo
 
 - Ask about Shakespeare, Austen, Dickens, Orwell
